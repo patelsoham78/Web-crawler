@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/patelsoham78/Web-crawler#readme",
   "dependencies": {
+    "axios": "^0.26.0",
     "cheerio": "^1.0.0-rc.10",
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "request": "^2.88.2"
   }
 }
